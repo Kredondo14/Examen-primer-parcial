@@ -1,0 +1,14 @@
+C:\Users\Rudy\Desktop\practica react\ExamenKevin\ExamenKevin\bin\Debug\net8.0\ExamenKevin.exe
+C:\Users\Rudy\Desktop\practica react\ExamenKevin\ExamenKevin\bin\Debug\net8.0\ExamenKevin.deps.json
+C:\Users\Rudy\Desktop\practica react\ExamenKevin\ExamenKevin\bin\Debug\net8.0\ExamenKevin.runtimeconfig.json
+C:\Users\Rudy\Desktop\practica react\ExamenKevin\ExamenKevin\bin\Debug\net8.0\ExamenKevin.dll
+C:\Users\Rudy\Desktop\practica react\ExamenKevin\ExamenKevin\bin\Debug\net8.0\ExamenKevin.pdb
+C:\Users\Rudy\Desktop\practica react\ExamenKevin\ExamenKevin\obj\Debug\net8.0\ExamenKevin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rudy\Desktop\practica react\ExamenKevin\ExamenKevin\obj\Debug\net8.0\ExamenKevin.AssemblyInfoInputs.cache
+C:\Users\Rudy\Desktop\practica react\ExamenKevin\ExamenKevin\obj\Debug\net8.0\ExamenKevin.AssemblyInfo.cs
+C:\Users\Rudy\Desktop\practica react\ExamenKevin\ExamenKevin\obj\Debug\net8.0\ExamenKevin.csproj.CoreCompileInputs.cache
+C:\Users\Rudy\Desktop\practica react\ExamenKevin\ExamenKevin\obj\Debug\net8.0\ExamenKevin.dll
+C:\Users\Rudy\Desktop\practica react\ExamenKevin\ExamenKevin\obj\Debug\net8.0\refint\ExamenKevin.dll
+C:\Users\Rudy\Desktop\practica react\ExamenKevin\ExamenKevin\obj\Debug\net8.0\ExamenKevin.pdb
+C:\Users\Rudy\Desktop\practica react\ExamenKevin\ExamenKevin\obj\Debug\net8.0\ExamenKevin.genruntimeconfig.cache
+C:\Users\Rudy\Desktop\practica react\ExamenKevin\ExamenKevin\obj\Debug\net8.0\ref\ExamenKevin.dll
